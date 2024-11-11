@@ -1,0 +1,22 @@
+# People Segmentation Dataset
+
+## Data sources
+The original data come from [supervisely](https://supervise.ly/),
+you could also refer to the [blog](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469).
+ Thanks for their wonderful work.
+
+## Specification
+The dataset contains 5110 for training and 568 images for validation.
+The files in `segmentation` directory contains the image list.
+You could use it to train your segmentation model.
+
+## Directory Structure
+people_segmentation
+├── images
+│   └── *.jpg  # images for segmentation
+│── masks
+│   └── *.png  # segmentation masks corresponds to the images
+└── segmentation
+    │── train.txt  # image list for training
+    │── trainval.txt  # all images
+    └── val.txt  # image list for validation
