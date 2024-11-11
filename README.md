@@ -3,6 +3,13 @@
 <div align="center"> 🚀 Welcome to my git repo :<b>FaceBlur</b></div>
 
 #####   
+
+
+
+https://github.com/user-attachments/assets/25c71483-7ca5-4351-a3e1-908765b96bdc
+
+
+
 <img src="https://github.com/himalayaashish/FaceBlur/blob/main/work-7.png?raw=true" alt="Text Summarization" width="500"/>
 
 
