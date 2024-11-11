@@ -88,5 +88,9 @@
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://medium.com/@himalayaashish" target="blank">
-  <img align="center" alt="Himalaya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img align="center" alt="Himalaya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+ </a>
+ </a>
+ <a href="https://himalayaashish.com/" target="blank">
+  <img align="center" alt="Himalaya's Twitter" width="30px" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Website-Power.svg" />
  </a>
